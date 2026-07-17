@@ -83,7 +83,7 @@ The complete project documentation is available in:
 
 Example:
 
-![Dashboard](Screenshot%202026-07-16%20171438.png)
+![Dashboard](dashboard.png)
 
 ---
 
