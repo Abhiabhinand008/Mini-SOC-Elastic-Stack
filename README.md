@@ -73,7 +73,7 @@ This project demonstrates the design and implementation of a Mini Security Opera
 
 The complete project documentation is available in:
 
-**MINI SOC PROJECT.pdf**
+Mini-SOC-Elastic-Stack-Project-Report.pdf
 
 ---
 
