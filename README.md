@@ -106,8 +106,8 @@ Example:
 
 GitHub: https://github.com/Abhiabhinand008
 
-LinkedIn: (Your LinkedIn)
+LinkedIn: https://www.linkedin.com/in/abhinand-v00
 
-GitBook: (Your GitBook)
+GitBook: https://abhinand.gitbook.io/abhinand-docs
 
-TryHackMe: (Your TryHackMe)
+
