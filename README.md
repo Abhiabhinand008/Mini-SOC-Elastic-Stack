@@ -79,7 +79,7 @@ The complete project documentation is available in:
 
 ## Screenshots
 
-(Add dashboard screenshots here)
+
 
 Example:
 
